@@ -1,0 +1,5 @@
+# Compiled C code #
+*.o
+
+# Driver File #
+DynArrTest.c
